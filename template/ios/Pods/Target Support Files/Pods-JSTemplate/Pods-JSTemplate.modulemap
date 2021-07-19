@@ -1,0 +1,6 @@
+module Pods_JSTemplate {
+  umbrella header "Pods-JSTemplate-umbrella.h"
+
+  export *
+  module * { export * }
+}
