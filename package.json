@@ -1,10 +1,9 @@
 {
   "name": "leenahie_rn_jstemplate",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "scripts": {
-    "test": "exit 0",
-    "prepublishOnly": "npm --no-git-tag-version version $TRAVIS_TAG"
+    "test": "exit 0"
   },
   "files": [
     "template",
@@ -25,6 +24,5 @@
   "bugs": {
     "url": "https://github.com/lenhathieu96/JSTemplate/issues"
   },
-  "homepage": "https://github.com/lenhathieu96/JSTemplate",
-  "main": ".eslintrc.js"
+  "homepage": "https://github.com/lenhathieu96/JSTemplate"
 }
